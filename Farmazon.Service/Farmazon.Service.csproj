@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Farmazon.Model\Farmazon.Model.csproj" />
+    <ProjectReference Include="..\Farmazon.Util\Farmazon.Util.csproj" />
+  </ItemGroup>
+
+</Project>
